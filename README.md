@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Jaswanth
 
-<!--
-**jaswanthb509/jaswanthb509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack MERN Developer
+🎓 Student at IIIT Nagpur
+🚀 Passionate about Web Development & Problem Solving
+🌱 Currently learning Advanced MERN Stack & DSA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* HTML
+* CSS
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database
+
+* MongoDB
+* MySQL
+
+### Languages
+
+* JavaScript
+* Python
+* C++
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+* VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Full Stack MERN Application
+
+* Built using React.js, Node.js, Express.js, and MongoDB
+* Implemented authentication and REST APIs
+
+### 🔹 Portfolio Website
+
+* Responsive portfolio website showcasing projects and skills
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/bhukya-jaswanth-0346bb28a/
+* Portfolio: https://your-portfolio-link
+* Email: [your-email@gmail.com](mailto:your-email@gmail.com)
