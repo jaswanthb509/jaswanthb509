@@ -58,4 +58,4 @@
 
 * LinkedIn: https://www.linkedin.com/in/bhukya-jaswanth-0346bb28a/
 * Portfolio: https://your-portfolio-link
-* Email: [your-email@gmail.com](mailto:bjaswanth6130@gmail.com)
+* Email: [bjaswanth6130@gmail.com](mailto:bjaswanth6130@gmail.com)
