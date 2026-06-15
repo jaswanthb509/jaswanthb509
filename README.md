@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jaswanth</h1>
+<h1 align="center">Hi , I'm Bhukya Jaswanth</h1>
 
 <h3 align="center">
-💻 Full Stack MERN Developer | 🎓 IIIT Nagpur Student | 🚀 Open to Internships
+ Full Stack MERN Developer |  IIIT Nagpur Student |  Open to Internships..
 </h3>
 
 <p align="center">
@@ -12,18 +12,18 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🚀 About Me
+##  About Me:
 
-* 🎓 Computer Science Student at **IIIT Nagpur**
-* 💻 Passionate about **Full Stack MERN Development**
-* 🌱 Currently learning **Advanced MERN Stack & Data Structures & Algorithms**
-* 🚀 Building real-world full stack applications
-* ⚡ Interested in scalable web applications and problem solving
-* 📫 Reach me at: **[bjaswanth6130@gmail.com](mailto:bjaswanth6130@gmail.com)**
+*  Computer Science Student at **IIIT Nagpur**
+*  Passionate about **Full Stack MERN Development**
+*  Currently learning **Advanced MERN Stack & Data Structures & Algorithms**
+*  Building real-world full stack applications
+*  Interested in scalable web applications and problem solving
+*  Reach me at: **[bjaswanth6130@gmail.com](mailto:bjaswanth6130@gmail.com)**
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/bhukya-jaswanth-0346bb28a/" target="blank">
@@ -37,33 +37,33 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack:
 
-### 🚀 Frontend
+###  Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js" />
 </p>
 
-### ⚙️ Backend
+###  Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database
+###  Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 💻 Languages
+###  Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
 </p>
 
-### 🛠️ Tools
+###  Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
@@ -71,7 +71,7 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects:
 
 ### 🔹 SpendWiseFamily
 
@@ -87,7 +87,7 @@ Responsive developer portfolio showcasing projects, skills, and experience.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaswanthb509&show_icons=true&theme=tokyonight" />
@@ -103,7 +103,7 @@ Responsive developer portfolio showcasing projects, skills, and experience.
 
 ---
 
-## 🔥 Current Focus
+##  Current Focus
 
 * Building Full Stack MERN Applications
 * Improving DSA & Problem Solving
@@ -112,6 +112,6 @@ Responsive developer portfolio showcasing projects, skills, and experience.
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
-💡 I enjoy building projects that solve real-world problems and improve user experiences.
+. I enjoy building projects that solve real-world problems and improve user experiences.
