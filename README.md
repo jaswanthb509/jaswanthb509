@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Bhukya Jaswanth</h1>
 
 <h3 align="center">
- Full Stack MERN Developer |  IIIT Nagpur Student |  Open to Internships..
+ Full Stack Developer(MERN) |  IIIT Nagpur Student |  Open to Internships..
 </h3>
 
 <p align="center">
